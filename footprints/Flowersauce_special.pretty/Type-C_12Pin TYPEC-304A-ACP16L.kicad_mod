@@ -1,10 +1,10 @@
-(footprint "TYPEC-304A-ACP16L"
+(footprint "Type-C_12Pin TYPEC-304A-ACP16L"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Type-C母座，Pin数：16")
-	(tags "Type-C母座")
+	(descr "贴板Type-c母座 ，板上型蓝/白/橙/绿，8.94x7.35x3.26mm，Pin数：12（16Pin合并）")
+	(tags "Type-C_12Pin 母座")
 	(property "Reference" "REF**"
 		(at 0 -9 0)
 		(unlocked yes)
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "TYPEC-304A-ACP16L"
+	(property "Value" "Type-C_12Pin TYPEC-304A-ACP16L"
 		(at 0 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -52,6 +52,30 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+		)
+	)
+	(property "品牌" "XUNPU(讯普)"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "39273ffe-e88b-4df3-87c0-f5d19d59145c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "立创编号" "C2909609"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b51708db-1bf9-46c3-a5e2-4324fb1d175e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -335,18 +359,6 @@
 		)
 		(layer "F.CrtYd")
 		(uuid "92106a83-8afd-4c48-b535-bd3924050376")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 3 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "3cdc60fa-741f-41f5-a547-34105e9e2034")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "" np_thru_hole circle
 		(at -2.89 -6.28)

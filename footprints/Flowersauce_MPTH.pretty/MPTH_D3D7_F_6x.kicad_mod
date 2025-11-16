@@ -18,7 +18,7 @@
 			)
 		)
 	)
-	(property "Value" "无标题"
+	(property "Value" "MPTH_D3D7_F_6x"
 		(at 7 -6 0)
 		(unlocked yes)
 		(layer "F.Fab")

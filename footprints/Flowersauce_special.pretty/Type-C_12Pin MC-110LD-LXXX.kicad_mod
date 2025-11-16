@@ -1,0 +1,84 @@
+(footprint "Type-C_12Pin MC-110LD-LXXX"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Type-C母座 立插，Pin数：12Pin（16Pin合并），USB2.0，高度：8.8H-17.5H")
+	(tags "Type-C母座 12Pin 立插")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ae7f5ece-fb9e-438f-be17-e8e3d143b33d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Type-C_12Pin MC-110LD-LXXX"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "453932f2-3fe2-4716-ab74-172d2572a526")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://item.szlcsc.com/datasheet/MC-110LD-L93/3352905.html?lcsc_vid=FQRfBVxUTgRXAVNRFlleVVcCFAMIVlJeRQMPBldQE1QxVlNQRFNXVlZTRVRXXjtW"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bef7e50-1f81-43d9-8bc8-429bd5b213e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52735c27-c62b-4992-b0f2-7e82d52f0fc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "品牌" "HANBO(汉博)"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "053de8cc-70b8-4ad4-8a5e-f96a6f4a7a97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "立创编号" "C2962413"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c08ef4a3-3d18-40b8-903f-7650f174c0c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(embedded_fonts no)
+)
