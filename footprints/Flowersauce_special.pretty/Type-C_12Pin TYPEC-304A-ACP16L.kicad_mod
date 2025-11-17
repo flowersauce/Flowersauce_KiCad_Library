@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "贴板Type-c母座 ，板上型蓝/白/橙/绿，8.94x7.35x3.26mm，Pin数：12（16Pin合并）")
-	(tags "Type-C_12Pin 母座")
+	(tags "Type-C 母座")
 	(property "Reference" "REF**"
 		(at 0 -9 0)
 		(unlocked yes)
