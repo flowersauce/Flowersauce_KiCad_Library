@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "无标题"
+	(property "Value" "WSOF-6-1EP_2.6x1.6mm_P0.5mm_EP1.5x1.2mm"
 		(at 0 2 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -208,24 +208,12 @@
 		(layer "F.CrtYd")
 		(uuid "54401d59-be41-4ae9-95c9-65c680b21d6f")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 0 3.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "3dd05bf3-f357-46f1-a1be-2d99e3f1f9e3")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(pad "1" smd roundrect
 		(at -1.375 -0.5)
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "d3d53520-45dc-4614-a110-fca63a091521")
 	)
 	(pad "2" smd roundrect
@@ -233,7 +221,7 @@
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "9f6b6e11-22b4-4ff5-996e-2b662a770336")
 	)
 	(pad "3" smd roundrect
@@ -241,7 +229,7 @@
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "d1f4c606-f19e-4b32-afb0-a0d015abcd63")
 	)
 	(pad "4" smd roundrect
@@ -249,7 +237,7 @@
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "844f0a74-0422-4c48-80b4-8f48cdd0fcf0")
 	)
 	(pad "5" smd roundrect
@@ -257,7 +245,7 @@
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "31ce8e9d-9a55-4a98-8820-e570754fba3d")
 	)
 	(pad "6" smd roundrect
@@ -265,7 +253,7 @@
 		(size 0.6 0.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "bdceaad7-b1be-40d6-bdc6-cefa9383ed06")
 	)
 	(pad "7" smd roundrect

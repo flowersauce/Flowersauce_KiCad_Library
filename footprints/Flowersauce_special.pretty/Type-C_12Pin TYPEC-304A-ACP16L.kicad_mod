@@ -379,7 +379,7 @@
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "94b3c9db-9516-4dd9-b6be-897d045ffc20")
 	)
 	(pad "A4-B9" smd roundrect
@@ -387,7 +387,7 @@
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "5b6ca3ba-058e-4a68-a4f6-f700d2891b76")
 	)
 	(pad "A5" smd roundrect
@@ -395,7 +395,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "c67753de-da65-4063-b456-1f155ed9ffac")
 	)
 	(pad "A6" smd roundrect
@@ -403,7 +403,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "fad362b3-645f-4251-8b85-ea701765c7ec")
 	)
 	(pad "A7" smd roundrect
@@ -411,7 +411,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "ce962ba1-be5e-4d94-9ec4-9581fc3315ea")
 	)
 	(pad "A8" smd roundrect
@@ -419,7 +419,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "7ecb12fc-1c1a-4c82-bbad-3a81879e4d1f")
 	)
 	(pad "B1-A12" smd roundrect
@@ -427,7 +427,7 @@
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "4477a3de-8ecb-4785-82a3-4005844f9252")
 	)
 	(pad "B4-A9" smd roundrect
@@ -435,7 +435,7 @@
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "34bbc267-dec9-40db-b021-5b56d9fed4c8")
 	)
 	(pad "B5" smd roundrect
@@ -443,7 +443,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "f07500a2-79ff-46b9-a20a-2032a0277f0a")
 	)
 	(pad "B6" smd roundrect
@@ -451,7 +451,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "3e13162c-038b-4c59-9c16-1763e8f93284")
 	)
 	(pad "B7" smd roundrect
@@ -459,7 +459,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "91e3a0f4-6cf4-459d-a8f7-4f8ce7210e7b")
 	)
 	(pad "B8" smd roundrect
@@ -467,7 +467,7 @@
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(clearance 0.15)
+		(clearance 0.1)
 		(uuid "3f771ca2-f12d-42b8-8c37-099ceda59dd6")
 	)
 	(pad "SH" thru_hole oval
