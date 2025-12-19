@@ -82,7 +82,7 @@
 	(attr smd)
 	(fp_circle
 		(center 0 0)
-		(end 3.1 0)
+		(end 3.354 0)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -95,7 +95,7 @@
 		(at 0 0)
 		(size 3.73 3.73)
 		(drill 3.73)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "d29e265d-c7dd-421f-bc7d-85a090c1ac9a")
 	)
 	(pad "1" smd custom
