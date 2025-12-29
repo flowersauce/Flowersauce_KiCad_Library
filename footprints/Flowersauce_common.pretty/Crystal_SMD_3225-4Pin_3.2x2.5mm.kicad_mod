@@ -6,7 +6,7 @@
 	(descr "晶振 SMD3225 贴片封装")
 	(tags "XTAL-SMD3225-4P")
 	(property "Reference" "REF**"
-		(at -13.554 -13.204 0)
+		(at 0 -2.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "6e199c7e-ad13-418a-bb2d-3d65656ef346")
@@ -18,7 +18,7 @@
 		)
 	)
 	(property "Value" "Crystal_SMD_3225-4Pin_3.2x2.5mm"
-		(at -13.554 -11.704 0)
+		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "a34c160e-1d14-41ba-816e-8023ae0d72fd")
