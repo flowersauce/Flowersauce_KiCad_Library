@@ -6,7 +6,7 @@
 	(descr "插拔式接线端子，间距：3.81mm，PIN数：3，方向：弯插")
 	(tags "插拔式接线端子")
 	(property "Reference" "REF**"
-		(at 0 1.5 0)
+		(at 0 -1.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "b173f41b-9ac4-49aa-ab62-86e4565423d4")
@@ -18,7 +18,7 @@
 		)
 	)
 	(property "Value" "无标题"
-		(at 0 3 0)
+		(at 0 -1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "d6f523ed-bc01-4365-8439-ab850174b233")
@@ -138,7 +138,7 @@
 		(uuid "f41d2cf4-03f8-4064-b8a7-94fcbaf4b268")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 4.5 0)
+		(at 0 -1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "61f28de1-e56b-4c0a-b1f3-35856aff3013")

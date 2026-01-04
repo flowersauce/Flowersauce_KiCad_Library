@@ -6,7 +6,7 @@
 	(descr "两路共模滤波器")
 	(tags "共模滤波器，共模电感")
 	(property "Reference" "REF**"
-		(at 0 3 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "2d0d4e60-f5d4-426d-a905-3e0f967b2fcc")
@@ -138,7 +138,7 @@
 		(uuid "90d2525f-4546-4622-aac2-7b6eeac3c66c")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 4.5 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "4d4b36db-a875-4844-9c6c-72d014bb4e86")
